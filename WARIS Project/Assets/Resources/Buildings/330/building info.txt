@@ -1,0 +1,122 @@
+Building No: 330
+Building Name: Chancellery
+Number of Occupants: 109
+Vanessa Hahn
+Sarah Dias
+Adrian Cheng
+Sam Dymond
+Rolee Kumar
+Dr Rebecca Handcock
+Pearl Chua
+Dr Chris Hutchison
+Linda Wu
+Dr Graham O'Hara
+Avril Fernandes
+Dr Moira Desport
+Joanne Davis
+Dr Erich von Dietze
+Dr Aggie Meerwald
+Patricia Francis
+Paul Comiskey
+Lyn Rigby
+William Knox
+Julie Gikonyo
+Joanne Hulme
+Anushia Aravindhan
+Hinke Van Gelder
+Janet Berriman
+Jane Crier
+Carla de Gois
+Naomi Arbon
+Bambang Wiyono
+Luci Smith
+Carolyn McInnis
+Natasha Warnock
+Chrysan Payne
+Joel de Silva
+Nicolette Ward
+Louie Coen
+Sue Brown
+Athira Adly
+Kerina Puttman
+Rupa Nair
+Tim Martin
+Richard Geddes
+Alexandra Sian York
+Roseanne Williams
+Michelle Thompson
+Stephanie Greige
+Anny Lim
+Tim Carcione
+Philip Payne
+Geraldine Woods
+Siew Ling Tan
+Anushia Suppiah
+Evelyn Loh
+Evelyn Green
+Neisha Sullivan
+Ian Gell
+Natasha Caraher
+Julia McMath
+Karen Smith
+Rachel Weir
+Jane Maurich
+Jeannette Geesmann
+Amy Fraser
+Malcom Farrell-Mitchell
+Moira Dawe
+Mark Davenport
+Sarah Chapman
+Nicolas Castagnette
+Bidinia Campbell-McPherson
+Kate Butler
+Ellie Briton
+Margaret Bateman
+Carol Bathols
+Michelle Austin
+Tanya Harding
+Karen Pearce
+Deborah Geddes
+Peter Furzer
+Jill Foster
+Franklin White
+Jennifer Stubber
+Kelly Tranter
+Madilyn Ringelstein
+Jason Rickersey
+Jean-Baptiste Philbert
+Marie-Louise Patchitt
+Rosa O'Hara
+Sam Macauley
+Jessica Kalmund
+Michael Conry
+Richard Jones
+Deb Crouche
+Hannah Begg
+Michael Aplin
+Linda Barton
+Kerry Ellis
+Brendan Cusack
+Sharon Bishop
+Natasha Bakker
+Adekunle Freeman
+Samantha Chan
+Leonard Choong
+Lea-ann Brittain
+Jenny Cameron
+Iran de Croos
+Trish Gazeley
+Flora Flynn
+Teegan Gaunt
+Nicole Adams
+Director Human Resources
+Number of Services: 7
+Meeting Rooms x5
+Male Toilets lvl 1
+Female Toilets lvl 1
+Male Toilets lvl 2
+Female Toilets lvl 2
+Male Toilets lvl 3
+Female Toilets lvl 3
+
+Number of lectures: 0
